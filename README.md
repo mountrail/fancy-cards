@@ -25,6 +25,7 @@ konten dalam card parent bisa dicustomize sesuka hati dengan syarat:
 <ul>
   <li>Desain menggambarkan personalisasi diri</li>
   <li>Memiliki efek responsive</li>
+  <li>Boleh ditambahkan data additional seperti umur, akun sosial media, dll</li>
 </ul>
 
 # Just some member's image
