@@ -18,7 +18,7 @@ konten dalam card parent bisa dicustomize sesuka hati dengan syarat:
 ## Syarat
 <ul>
   <li>Harus berisi nama dari pembuat</li>
-  <li>Tidak mengubah style bawaan dari <b>card parent element</b> seperti height, border, dan margin</li>
+  <li>boleh mengubah style bawaan dari <b>card parent element</b> kecuali height, width, dan margin</li>
 </ul>
 
 ## Tips
