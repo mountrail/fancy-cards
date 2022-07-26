@@ -3,11 +3,11 @@
 
 # Cara membuat kartu yang benar
 satu orang hanya boleh membuat satu card (kartu profil). Dimana element nya harus diletakkan didalam **card parent element** khusus yang sudah memiliki style bawaan yaitu: 
-```<section class="card-parent">```
+```<section class="card_parent">```
 
 ## Contoh
 ```
-<section class="card-parent">
+<section class="card_parent">
   terserah
 </section>
 ```
